@@ -1,2 +1,2 @@
-# HW8-SQL
-SQL Sakila
+# CRUD SQL 
+SQL Sakila db
