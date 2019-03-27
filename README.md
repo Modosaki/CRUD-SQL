@@ -1,2 +1,2 @@
 # CRUD SQL 
-SQL Sakila db
+SQL Sakila db Practice
